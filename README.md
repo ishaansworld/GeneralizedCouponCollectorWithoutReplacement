@@ -1,5 +1,5 @@
 # GeneralizedCouponCollectorWithoutReplacement
-See my full write up on my website, [ishaanchawla.com](https://ishaanchawla.com/).
+See my full write up on my website, [ishaanchawla.com](https://ishaanchawla.com/2024/10/22/math-at-the-raffle-generalized-coupon-collector-without-replacement/).
 
 Running simulations to confirm derivations of expectation for the generalized coupon collector without replacement problem.
 
